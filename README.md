@@ -9,7 +9,7 @@ RapidResQ is an emergency response tool that gives firefighters **fast, clear, a
 Our mission: **help first responders prepare, act, and respond with confidence.**
 
 ---
-
+ 
 ## Features
 ### 🔑 Usability & UI
 - **Layer Toggles**: Quickly show/hide weather, hydrants, and building heights.
