@@ -119,6 +119,7 @@ University of Toronto — **ECE297: Software Design & Communication**
 
 ## Acknowledgements
 - Course staff for framework and datasets
+- External references on usability, response times, and fire modelling
 
 ---
 
