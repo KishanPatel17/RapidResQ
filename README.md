@@ -17,7 +17,6 @@ Our mission: **help first responders prepare, act, and respond with confidence.*
 - **High-Contrast Icons & Colours**: Distinguish hydrants, POIs, and building layers at a glance.
 - **Dynamic Level of Detail (LOD)**: Zoom-based rendering (highways → hydrants) cuts visual clutter.
 - **Scale Bar & Legends**: Better spatial awareness for pre‑planning.
-- **Survey-Validated**: Usability survey returned a **91% score**.
 
 ### 🚰 Critical Data Layers
 - **Fire Hydrants**: Locations with details (pressure, type, water source).
@@ -34,9 +33,6 @@ Our mission: **help first responders prepare, act, and respond with confidence.*
 - **Multithreading**: Improves responsiveness under heavier loads.
 - **Render Efficiency**: **25–50%** reduced render times; typical frame under **100 ms**.
 - **TSP Success**: Our courier routing solution (Travelling Salesman Problem) achieved a **lower QoR than the TA's best benchmark**, demonstrating the effectiveness of our optimization approach.
-
-### 🔥 Fire Spread Simulation *(Planned)*
-Predictive model using **wind, weather, terrain, and materials** to highlight **high‑risk zones** and improve evacuation and containment planning.
 
 ---
 
