@@ -1,5 +1,5 @@
 # RapidResQ 🚒🔥
-RapidResQ is a firefighter-focused GIS mapping app built in C++ (ECE297, UofT). Features include hydrant/building/weather layers, night mode, A routing, and optimization. Designed for speed, clarity, and split-second decision making. (Docs only)
+Firefighter-focused GIS mapping app (ECE297, UofT) with hydrant/building/weather layers, night mode, A routing, and optimization. Our courier/TSP solution outperformed the TA's best benchmark. Docs only; code not included.
 
 > **Note**: This repository documents the project only. **Source code is not included** per course policy.
 
@@ -33,6 +33,7 @@ Our mission: **help first responders prepare, act, and respond with confidence.*
 - **2‑Opt & Or‑Opt**: Local refinements to decrease overall travel time.
 - **Multithreading**: Improves responsiveness under heavier loads.
 - **Render Efficiency**: **25–50%** reduced render times; typical frame under **100 ms**.
+- **TSP Success**: Our courier routing solution (Travelling Salesman Problem) achieved a **lower QoR than the TA's best benchmark**, demonstrating the effectiveness of our optimization approach.
 
 ### 🔥 Fire Spread Simulation *(Planned)*
 Predictive model using **wind, weather, terrain, and materials** to highlight **high‑risk zones** and improve evacuation and containment planning.
@@ -69,6 +70,7 @@ Predictive model using **wind, weather, terrain, and materials** to highlight **
 
 ## Performance & Usability
 - **Render time**: 25–50% reduction vs. baseline; typical frame < 100 ms.
+- **Optimization**: Courier/TSP routing beat the TA best solution, confirming algorithmic efficiency.
 - **Clarity-first design**: Buttons, legends, and high-contrast colour choices.
 
 ---
@@ -81,8 +83,6 @@ University of Toronto — **ECE297: Software Design & Communication**
 
 ## Acknowledgements
 - Course staff for framework and datasets
-- External references on usability, response times, and fire modelling
-- Fire service community for inspiration and feedback
 
 ---
 
