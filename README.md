@@ -105,7 +105,7 @@ Our mission: **help first responders prepare, act, and respond with confidence.*
 ---
 
 ## Performance & Usability
-- **Render time**: 25–50% reduction vs. baseline; typical frame < 100 ms.
+- **Render time**: 25–50% reduction vs. baseline; typical frame < 100 ms. 
 - **Optimization**: Courier/TSP routing beat the TA best solution, confirming algorithmic efficiency.
 - **Clarity-first design**: Buttons, legends, and high-contrast colour choices.
 
