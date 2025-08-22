@@ -50,13 +50,13 @@ Predictive model using **wind, weather, terrain, and materials** to highlight **
 ## Demos & Screenshots
 
 - Hydrants & details  
-  ![Hydrants](media/hydrants.png)
+  ![Hydrants](media/hydrant_info_1.png)
 - Building heights with legend  
-  ![Building Heights](media/building-heights.png)
+  ![Building Heights](media/buildings.gif)
 - Night mode & high-contrast iconography  
-  ![Night Mode](media/night-mode.png)
+  ![Night Mode](media/nightmode.gif)
 - Autocomplete + A* routing  
-  ![Autocomplete](media/autocomplete.png)
+  ![Autocomplete](media/autocomplete-search.gif)
 
 ---
 
