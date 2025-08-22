@@ -47,16 +47,23 @@ Predictive model using **wind, weather, terrain, and materials** to highlight **
 
 ---
 
-## Demos & Screenshots
+## Demo Highlights  
 
-- Hydrants & details  
-  ![Hydrants](media/hydrant_info_1.png)
-- Building heights with legend  
-  ![Building Heights](media/buildings.gif)
-- Night mode & high-contrast iconography  
-  ![Night Mode](media/nightmode.gif)
-- Autocomplete + A* routing  
-  ![Autocomplete](media/autocomplete-search.gif)
+| Autocomplete + Routing | Dynamic Level of Detail |
+| ---------------------- | ----------------------- |
+| ![Autocomplete](media/autocomplete-search.gif) | ![Dynamic LOD](media/dynamic-level-detail.gif) |
+
+| Hydrant Info | Night Mode |
+| ------------ | ---------- |
+| ![Hydrant](media/hydrant_info_1.png) | ![Night Mode](media/nightmode.gif) |
+
+| Building Heights | Weather Layer |
+| ---------------- | ------------- |
+| ![Buildings](media/buildings.gif) | ![Weather](media/weather.gif) |
+
+| Pathfinding Example | Hydrant Detail Popup |
+| ------------------- | -------------------- |
+| ![Route](media/route_finding.gif) | ![Hydrant 2](media/hydrant_info_2.png) |
 
 ---
 
