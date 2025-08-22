@@ -46,21 +46,61 @@ Our mission: **help first responders prepare, act, and respond with confidence.*
 
 ## Demo Highlights  
 
-| Autocomplete + Routing | Dynamic Level of Detail |
-| ---------------------- | ----------------------- |
-| ![Autocomplete](media/autocomplete-search.gif) | ![Dynamic LOD](media/dynamic-level-detail.gif) |
-
-| Hydrant Info | Night Mode |
-| ------------ | ---------- |
-| ![Hydrant](media/hydrant_info_1.png) | ![Night Mode](media/nightmode.gif) |
-
-| Building Heights | Weather Layer |
-| ---------------- | ------------- |
-| ![Buildings](media/buildings.gif) | ![Weather](media/weather.gif) |
-
-| Pathfinding Example | Hydrant Detail Popup |
-| ------------------- | -------------------- |
-| ![Route](media/route_finding.gif) | ![Hydrant 2](media/hydrant_info_2.png) |
+<!-- Demo Highlights (HTML table for consistent sizing) -->
+<table style="width:100%; table-layout:fixed;">
+  <thead>
+    <tr>
+      <th style="text-align:center; padding:8px;">Autocomplete + Routing</th>
+      <th style="text-align:center; padding:8px;">Dynamic Level of Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width:50%; padding:8px;">
+        <img src="media/autocomplete-search.gif" alt="Autocomplete + Routing" height=300px>
+      </td>
+      <td style="width:50%; padding:8px;">
+        <img src="media/dynamic-level-detail.gif" alt="Dynamic Level of Detail" height=300px>
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:center; padding:8px;">Hydrant Info</th>
+      <th style="text-align:center; padding:8px;">Night Mode</th>
+    </tr>
+    <tr>
+      <td style="padding:8px;">
+        <img src="media/hydrant_info_1.png" alt="Hydrant Info" height=300px>
+      </td>
+      <td style="padding:8px;">
+        <img src="media/nightmode.gif" alt="Night Mode" height=300px>
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:center; padding:8px;">Building Heights</th>
+      <th style="text-align:center; padding:8px;">Weather Layer</th>
+    </tr>
+    <tr>
+      <td style="padding:8px;">
+        <img src="media/buildings.gif" alt="Building Heights" height=300px>
+      </td>
+      <td style="padding:8px;">
+        <img src="media/weather.gif" alt="Weather Layer" height=300px>
+      </td>
+    </tr>
+    <tr>
+      <th style="text-align:center; padding:8px;">Pathfinding Example</th>
+      <th style="text-align:center; padding:8px;">Hydrant Detail Popup</th>
+    </tr>
+    <tr>
+      <td style="padding:8px;">
+        <img src="media/route_finding.gif" alt="Pathfinding Example" height=300px>
+      </td>
+      <td style="padding:8px;">
+        <img src="media/hydrant_info_2.png" alt="Hydrant Detail Popup" height=300px>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
